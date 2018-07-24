@@ -1,0 +1,43 @@
+body{
+    background: rgb(53,53,53);
+    color: whitesmoke;
+    
+}
+
+header{
+    text-align: center;
+    font-size: 72px;
+    font-family: 'Tangerine', cursive;
+}
+
+img{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 540px;
+}
+
+.watch_container{
+    border: 2px;
+    border-radius: 13px;
+    border-style: solid;
+border-color: #fdefa6;
+    background: #1A1818;
+}
+h3{
+    text-align: center;
+    font-size: 26px;
+    font-family: 'Unica One', cursive;
+}
+
+.watch_container img {
+    float: left;
+    height: 100px;
+    width: auto;
+}
+footer{
+    text-align: center;
+}
+
+.top{
+    text-align: center;
+}
